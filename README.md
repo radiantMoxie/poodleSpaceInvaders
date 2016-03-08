@@ -13,7 +13,7 @@ Java == Version 8 Update 73
 
 ## Section 3: Installation
 * Clone the poodleSpaceInvaders repository onto your local machine.
-* Double-click the Poodle_Sapce_Invaders.jar to execute and play game!
+* Double-click the Poodle_Space_Invaders.jar to execute and play game!
 
 ## Section 4: Set Up
 * The only setup needed is to ensure you have [Java](https://java.com/en/) installed
